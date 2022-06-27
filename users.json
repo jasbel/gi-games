@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "asbel@email.com",
+            "password": "asbel",
+            "email": "asbel@email.com",
+            "firstname": "asbel",
+            "lastname": "apaza",
+            "url_photo": ""
+        },
+        {
+            "id": 2,
+            "username": "techie@email.com",
+            "password": "techie"
+        },
+        {
+            "id": 3,
+            "username": "nilson@email.com",
+            "password": "nilson"
+        },
+        {
+            "id": 4,
+            "username": "nilson1@email.com",
+            "password": "nilson"
+        },
+        {
+            "id": 5,
+            "username": "nilson2@email.com",
+            "password": "nilson"
+        },
+        {
+            "id": 6,
+            "username": "nilson3@email.com",
+            "password": "nilson"
+        },
+        {
+            "id": 7,
+            "username": "nilson4@email.com",
+            "password": "nilson"
+        },
+        {
+            "id": 8,
+            "username": "nilson7@email.com",
+            "password": "nilson"
+        },
+        {
+            "id": 9,
+            "username": "nilson8@email.com",
+            "password": "nilson"
+        }
+    ]
+}
